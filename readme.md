@@ -1,3 +1,5 @@
+[![endorse](http://api.coderwall.com/rags/endorsecount.png)](http://coderwall.com/rags)
+
 The script copies over music from your ipod/iphone to a specified directory in artist/album/title.xxx format.
 
 Usage: 
