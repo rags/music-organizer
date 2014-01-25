@@ -23,7 +23,7 @@ Usage:
  python titlecase_tags.py /your/library/folder
 ```
 
-The script has dependency on [quodlibet](https://code.google.com/p/quodlibet/).
+These scripts have dependency on [quodlibet](https://code.google.com/p/quodlibet/).
 
 ```
     sudo apt-get install quodlibet
