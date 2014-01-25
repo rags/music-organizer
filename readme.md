@@ -18,7 +18,7 @@ Artist: OBITUARY        -->      Artist: Obituary
 Album:  slowly we rot   -->      Album:  Slowly We Rot 
 Title:  Gates to Hell   -->      Title:  Gates To Hell
 ```
-
+Usage:
 ```
  python titlecase_tags.py /your/library/folder
 ```
